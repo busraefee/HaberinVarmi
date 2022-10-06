@@ -1,0 +1,4 @@
+#Thu Oct 06 14:24:04 TRT 2022
+base.0=T\:\\FlutterProjects\\haberin_var_mi\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

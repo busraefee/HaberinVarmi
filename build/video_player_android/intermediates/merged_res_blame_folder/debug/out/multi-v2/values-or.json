@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "T:\\FlutterProjects\\haberin_var_mi\\build\\video_player_android\\intermediates\\res\\merged\\debug\\values-or\\values-or.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\busra\\.gradle\\caches\\transforms-2\\files-2.1\\920905e3ceb0e0defa40133534dc2701\\core-1.7.0\\res\\values-or\\values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "T:\\FlutterProjects\\haberin_var_mi\\build\\video_player_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\busra\\.gradle\\caches\\transforms-2\\files-2.1\\920905e3ceb0e0defa40133534dc2701\\core-1.7.0\\res\\values-or\\values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
